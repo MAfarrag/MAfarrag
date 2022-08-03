@@ -1,4 +1,4 @@
-# Mostafa-Farrag
+# Mostafa Farrag
 
 <h1 align="center">Hi 👋, I'm Mostafa Farrag</h1>
 <h3 align="center">Hydroinformatian, PhD researcher and Software Engineer</h3>
