@@ -4,7 +4,7 @@
 <h3 align="center">Hydroinformatian, PhD researcher and Software Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [My projects](https://github.com/MAfarrag)
-- Some of my PhD presentations are in my youtube channel [here]([https://www.youtube.com/channel/UC74SgWA5QZHMYOoFvCpoMSA](https://www.youtube.com/channel/UCcB-LfAyB8mMnnU-A-Vx0Gw))
+- Some of my PhD presentations are in my youtube channel [here](https://www.youtube.com/channel/UCcB-LfAyB8mMnnU-A-Vx0Gw)
 - Most of my work are about Hydrolog[[Hapi](https://github.com/MAfarrag/Hapi)], Geo-spatial data [[Pyramids](https://github.com/MAfarrag/pyramids)], Remote Sensing [[earth2observe](https://github.com/MAfarrag/earth2observe)], Optimization [[Oasis](https://github.com/MAfarrag/Oasis)], Statistics [[statista](https://github.com/MAfarrag/statista), [geostatista](https://github.com/MAfarrag/geostatista)], and Visualization [[cleopatra](https://github.com/MAfarrag/cleopatra), [Digital-Earth](https://github.com/MAfarrag/Digital-Earth)]
 - How to reach me **moah.farag@gmail.com**
 
