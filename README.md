@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/MAFarrag?logo=github&style=for-the-
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a> 
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="git" width="70" height="40"/> </a> 
-<a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src=https://www.linuxadictos.com/wp-content/uploads/GoogleEarthEngine.jpg" alt="git" width="70" height="40"/> </a>
+<a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/GoogleEarthEngine.jpg" alt="git" width="70" height="40"/> </a>
 </p>
 
 ### Socials
