@@ -6,16 +6,16 @@ Software Engineer / Hydroinformatics Researcher
 
 * 🌍  I'm based in Rotterdam
 * 🖥️  See my portfolio at [Medium.com/@mafarrag](http://medium.com/@mafarrag)
-* See all my code repositories in the [Serapeum Github organization ](https://github.com/Serapieum-of-alex)
+* See all my code repositories in the [Serapeum Github organization ](https://github.com/serapeum-org)
 * ✉️  You can contact me at [moah.farag@gmail.com](mailto:moah.farag@gmail.com)
 * 🤝  I'm open to collaborating on LLM, python packages, Hydrodynamic and Hydrologic models.
 
 <a href="https://www.github.com/MAFarrag" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MAFarrag?logo=github&style=for-the-badge&color=0f172a&labelColor=000000" /></a>
 
-- 👨‍💻 All of my projects are available at [Serapeum](https://github.com/Serapieum-of-alex)
+- 👨‍💻 All of my projects are available at [Serapeum](https://github.com/serapeum-org)
 - Some of my PhD presentations are in my youtube channel [here](https://www.youtube.com/channel/UCcB-LfAyB8mMnnU-A-Vx0Gw)
-- Most of my work are about Hydrolog[[Hapi](https://github.com/MAfarrag/Hapi)], Geo-spatial data [[Pyramids](https://github.com/MAfarrag/pyramids)], Remote Sensing [[earth2observe](https://github.com/MAfarrag/earth2observe)], Optimization [[Oasis](https://github.com/MAfarrag/Oasis)], Statistics [[statista](https://github.com/MAfarrag/statista), [geostatista](https://github.com/MAfarrag/geostatista)], and Visualization [[cleopatra](https://github.com/MAfarrag/cleopatra), [Digital-Earth](https://github.com/MAfarrag/Digital-Earth)]
+- Most of my work are about Hydrolog[[Hapi](https://github.com/serapeum-org/Hapi)], Geo-spatial data [[Pyramids](https://github.com/serapeum-org/pyramids)], Remote Sensing [[earth2observe](https://github.com/serapeum-org/earth2observe)], Optimization [[Oasis](https://github.com/serapeum-org/Oasis)], Statistics [[statista](https://github.com/serapeum-org/statista), [geostatista](https://github.com/serapeum-org/geostatista)], and Visualization [[cleopatra](https://github.com/serapeum-org/cleopatra), [Digital-Earth](https://github.com/serapeum-org/Digital-Earth)]
 - How to reach me **moah.farag@gmail.com**
 
 ### Socials
