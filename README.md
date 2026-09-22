@@ -66,8 +66,6 @@ width="32" height="32" alt="YouTube" /></a>
 </p>
 
 - 🎥  My channel: [@bytestreams](https://www.youtube.com/@bytestreams)
-- 🎓  Some of my PhD presentations are on
-  [this channel](https://www.youtube.com/channel/UCcB-LfAyB8mMnnU-A-Vx0Gw)
 
 ## Featured repositories
 
