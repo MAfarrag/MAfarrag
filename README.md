@@ -1,63 +1,111 @@
 Hi 👋 My name is Mostafa Farrag
 ===============================
 
-Software Engineer / Hydroinformatics Researcher
------------------------------------------------
+Hydroinformatics researcher · PhD researcher in large-scale flood risk modelling
+--------------------------------------------------------------------------------
 
-* 🌍  I'm based in Berlin
-* 🖥️  See my portfolio at [Medium.com/@mafarrag](http://medium.com/@mafarrag)
-* See all my code repositories in the [Serapeum Github organization ](https://github.com/Serapieum-of-alex)
-* ✉️  You can contact me at [moah.farag@gmail.com](mailto:moah.farag@gmail.com)
-* 🤝  I'm open to collaborating on Geospatial GIS python packages, Hydrodynamic and Hydrologic models
+* 🌍  Based in Berlin
+* 🛠️  I build open-source Python for geospatial analysis, hydrology and Earth observation — all of it in the
+  [**Serapeum**](https://github.com/serapeum-org) organization
+* 📚  Documentation for every package: [serapeum-org.github.io/docs](https://serapeum-org.github.io/docs/)
+* ✍️  I write at [Medium/@mafarrag](https://medium.com/@mafarrag)
+* ✉️  Reach me at [moah.farag@gmail.com](mailto:moah.farag@gmail.com)
+* 🤝  Open to collaborating on geospatial Python packages, hydrodynamic and hydrologic models
 
-<a href="https://www.twitter.com/MAfarrag07" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/MAfarrag07?logo=twitter&style=for-the-badge&color=0f172a&labelColor=000000"
-/></a><a href="https://www.github.com/MAFarrag" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/MAFarrag?logo=github&style=for-the-badge&color=0f172a&labelColor=000000" /></a>
+<a href="https://github.com/MAfarrag" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/MAfarrag?logo=github&style=for-the-badge&color=0f172a&labelColor=000000"
+alt="GitHub followers" /></a>
 
-- 👨‍💻 All of my projects are available at [Serapeum](https://github.com/Serapieum-of-alex)
-- Some of my PhD presentations are in my youtube channel [here](https://www.youtube.com/channel/UCcB-LfAyB8mMnnU-A-Vx0Gw)
-- Most of my work are about Hydrolog[[Hapi](https://github.com/MAfarrag/Hapi)], Geo-spatial data [[Pyramids](https://github.com/MAfarrag/pyramids)], Remote Sensing [[earth2observe](https://github.com/MAfarrag/earth2observe)], Optimization [[Oasis](https://github.com/MAfarrag/Oasis)], Statistics [[statista](https://github.com/MAfarrag/statista), [geostatista](https://github.com/MAfarrag/geostatista)], and Visualization [[cleopatra](https://github.com/MAfarrag/cleopatra), [Digital-Earth](https://github.com/MAfarrag/Digital-Earth)]
-- How to reach me **moah.farag@gmail.com**
+## What I build
 
-### Skills
+Fourteen packages on [PyPI](https://pypi.org/user/MAfarrag/) and
+[conda-forge](https://conda-forge.org/), designed to compose rather than to stand alone. The
+[dependency graph](https://serapeum-org.github.io/docs/python-packages/dependency-graph/) shows how they fit
+together.
+
+**Geospatial** — [pyramids](https://github.com/serapeum-org/pyramids) (`pyramids-gis`), the GDAL/OGR engine the
+rest of the stack builds on · [pyramids-eo](https://github.com/serapeum-org/pyramids-eo), its remote-sensing tier
+· [digital-rivers](https://github.com/serapeum-org/digital-rivers), DEM and terrain processing
+
+**Earth observation** — [earthlens](https://github.com/serapeum-org/earthlens), data acquisition from ECMWF,
+STAC, Copernicus and GEE behind one interface
+
+**Hydrology** — [Hapi](https://github.com/serapeum-org/Hapi) (`hapi-nile`), a conceptual distributed model with
+HBV96 and Muskingum routing · [Serapis](https://github.com/serapeum-org/Serapis), flood and hydrodynamic
+simulation
+
+**Visualization** — [cleopatra](https://github.com/serapeum-org/cleopatra), the matplotlib layer everything plots
+through · [Digital-Earth](https://github.com/serapeum-org/Digital-Earth) (`digitalearth`), static, interactive,
+3D and web maps
+
+**Statistics** — [statista](https://github.com/serapeum-org/statista), extreme-value analysis and distribution
+fitting · [geostatista](https://github.com/serapeum-org/geostatista), variograms and kriging
+
+**Utilities** — [hpc](https://github.com/serapeum-org/hpc) (`hpc-utils`) ·
+[unicloud](https://github.com/serapeum-org/unicloud), cloud object storage ·
+[Oasis](https://github.com/serapeum-org/Oasis), harmony-search optimization
+
+**AI** — [serapeum](https://github.com/serapeum-org/serapeum), a provider-agnostic LLM framework ·
+[llama-utils](https://github.com/serapeum-org/llama-utils)
+
+## Skills
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAE58?style=for-the-badge&logo=gnome&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Xarray](https://img.shields.io/badge/Xarray-0C7BDC?style=for-the-badge&logo=python&logoColor=white)
+![Dask](https://img.shields.io/badge/Dask-FC6E6B?style=for-the-badge&logo=dask&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Earth%20Engine-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+## Where to find me
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-
-[//]: # (<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>)
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="git" width="70" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a> 
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg" alt="git" width="70" height="40"/> </a> 
-<a href="https://earthengine.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.linuxadictos.com/wp-content/uploads/GoogleEarthEngine.jpg" alt="git" width="70" height="40"/> </a>
+<a href="https://github.com/MAfarrag" target="_blank" rel="noreferrer"><img
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg"
+width="32" height="32" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/mafarrag" target="_blank" rel="noreferrer"><img
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+width="32" height="32" alt="LinkedIn" /></a>
+<a href="https://medium.com/@mafarrag" target="_blank" rel="noreferrer"><img
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg"
+width="32" height="32" alt="Medium" /></a>
+<a href="https://www.youtube.com/@bytestreams" target="_blank" rel="noreferrer"><img
+src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
+width="32" height="32" alt="YouTube" /></a>
 </p>
 
-### Socials
+- 🎥  My channel: [@bytestreams](https://www.youtube.com/@bytestreams)
+- 🎓  Some of my PhD presentations are on
+  [this channel](https://www.youtube.com/channel/UCcB-LfAyB8mMnnU-A-Vx0Gw)
 
-<p align="left"> <a href="https://www.github.com/MAFarrag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mafarrag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/mafarrag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MAfarrag07" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/mafarrag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+## Featured repositories
 
-### Badges
+| Repository | Stars | What it is |
+|---|---|---|
+| [**earthlens**](https://github.com/serapeum-org/earthlens) | ![stars](https://img.shields.io/github/stars/serapeum-org/earthlens?style=flat&labelColor=000000&color=ef4444) | Earth-observation data acquisition behind one interface |
+| [**pyramids**](https://github.com/serapeum-org/pyramids) | ![stars](https://img.shields.io/github/stars/serapeum-org/pyramids?style=flat&labelColor=000000&color=ef4444) | Raster, vector and datacube handling over GDAL/OGR |
+| [**Hapi**](https://github.com/serapeum-org/Hapi) | ![stars](https://img.shields.io/github/stars/serapeum-org/Hapi?style=flat&labelColor=000000&color=ef4444) | Conceptual distributed hydrological model |
+| [**statista**](https://github.com/serapeum-org/statista) | ![stars](https://img.shields.io/github/stars/serapeum-org/statista?style=flat&labelColor=000000&color=ef4444) | Extreme-value statistics and distribution fitting |
+| [**cleopatra**](https://github.com/serapeum-org/cleopatra) | ![stars](https://img.shields.io/github/stars/serapeum-org/cleopatra?style=flat&labelColor=000000&color=ef4444) | The matplotlib layer the whole stack plots through |
 
-<b>My GitHub Stats</b>
+## GitHub stats
 
-<a href="http://www.github.com/MAFarrag"><img src="https://github-readme-stats.vercel.app/api?username=MAFarrag&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&show_icons=true" alt="MAFarrag's GitHub stats" /></a>
-
-<a href="http://www.github.com/MAFarrag"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MAFarrag&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/MAFarrag"><img src="https://activity-graph.herokuapp.com/graph?username=MAFarrag&bg_color=000000&color=ffffff&line=0f172a&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/MAFarrag" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAFarrag&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/MAFarrag/Hapi" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAFarrag&repo=Hapi&title_color=ef4444&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/MAFarrag/pyramids" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAFarrag&repo=pyramids&title_color=ef4444&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/MAFarrag/statista" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MAFarrag&repo=statista&title_color=ef4444&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<a href="https://github.com/MAfarrag"><img
+src="https://streak-stats.demolab.com/?user=MAfarrag&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+alt="GitHub streak" /></a>
