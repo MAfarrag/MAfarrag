@@ -4,13 +4,13 @@ Hi 👋 My name is Mostafa Farrag
 Hydroinformatics researcher · PhD researcher in large-scale flood risk modelling
 --------------------------------------------------------------------------------
 
-* 🌍  Based in Berlin
+* 🌍  Based in Rotterdam
 * 🛠️  I build open-source Python for geospatial analysis, hydrology and Earth observation — all of it in the
   [**Serapeum**](https://github.com/serapeum-org) organization
 * 📚  Documentation for every package: [serapeum-org.github.io/docs](https://serapeum-org.github.io/docs/)
 * ✍️  I write at [Medium/@mafarrag](https://medium.com/@mafarrag)
 * ✉️  Reach me at [moah.farag@gmail.com](mailto:moah.farag@gmail.com)
-* 🤝  Open to collaborating on geospatial Python packages, hydrodynamic and hydrologic models
+* 🤝  Open to collaborating on LLMs, Python packages, hydrodynamic and hydrologic models
 
 <a href="https://github.com/MAfarrag" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/MAfarrag?logo=github&style=for-the-badge&color=0f172a&labelColor=000000"
@@ -60,12 +60,12 @@ width="32" height="32" alt="LinkedIn" /></a>
 <a href="https://medium.com/@mafarrag" target="_blank" rel="noreferrer"><img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg"
 width="32" height="32" alt="Medium" /></a>
-<a href="https://www.youtube.com/@bytestreams" target="_blank" rel="noreferrer"><img
+<a href="https://www.youtube.com/@ByteStreams" target="_blank" rel="noreferrer"><img
 src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg"
 width="32" height="32" alt="YouTube" /></a>
 </p>
 
-- 🎥  My channel: [@bytestreams](https://www.youtube.com/@bytestreams)
+- 🎥  My channel: [@ByteStreams](https://www.youtube.com/@ByteStreams)
 
 ## Featured repositories
 
@@ -80,5 +80,12 @@ width="32" height="32" alt="YouTube" /></a>
 ## GitHub stats
 
 <a href="https://github.com/MAfarrag"><img
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=MAfarrag&show_icons=true&include_all_commits=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0f172a&bg_color=000000&hide_border=true"
+alt="GitHub stats" /></a>
+
+<a href="https://github.com/MAfarrag"><img
 src="https://streak-stats.demolab.com/?user=MAfarrag&stroke=ffffff&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
 alt="GitHub streak" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=MAfarrag&label=Profile%20views&style=for-the-badge&color=0f172a&labelColor=000000"
+alt="Profile views" />
